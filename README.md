@@ -20,7 +20,7 @@ Free and open source. **Star or watch this repo** to hear when v2 lands.
 
 ### Get the folder
 
-1. On the [repo page](https://github.com/VancheeZze/FGSD), click **Code → Download ZIP**.
+1. On the [repo page](https://github.com/Vanchezze/FGSD), click **Code → Download ZIP**.
 2. Unzip it somewhere on your computer.
 
 Use the ZIP rather than `git clone`: this folder will hold your personal project notes, and a clone makes it easy to push them to a public fork by accident.
@@ -124,7 +124,7 @@ If you added your own instructions to `CLAUDE.md` or `AGENTS.md`, keep them belo
 
 ## Feedback
 
-Found a bug, have an idea, or want to share how you're using it? [Open an issue](https://github.com/VancheeZze/FGSD/issues). Real feedback decides what goes into next versions.
+Found a bug, have an idea, or want to share how you're using it? [Open an issue](https://github.com/Vanchezze/FGSD/issues). Real feedback decides what goes into next versions.
 
 ---
 
